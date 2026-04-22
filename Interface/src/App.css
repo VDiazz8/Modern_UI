@@ -1,0 +1,142 @@
+main{
+  width: 100%;
+  width: 100vh;
+  background: #fff;
+}
+section{
+  width: 100%;
+  height: 93.2vh;
+  background: linear-gradient(#000 1%, rgb(26, 60, 91) 35%,#000 100%);
+}
+h1{
+  float: left;
+  margin-top: 7vh;
+  color: #fff;
+  font-size: 2rem;
+  margin-left: -2%;
+}
+.FEAT{
+  float: left;
+  margin-top: 11vh;
+  color: #fff;
+  margin-left: -20%;
+  font-size: 1rem;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.FEAT2{
+  float: left;
+  margin-top: 13vh;
+  color: #fff;
+  margin-left: -20%;
+  font-size: 1rem;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.CAPA{
+  float: left;
+  width: 35%;
+  margin-top: 10vh;
+  margin-left: -18.5%;
+  border-radius: 200%;
+}
+.PERFIL{
+  float: right;
+  width: 5%;
+  border-radius: 200%;
+  margin-right: 59%;
+  margin-top: 2vh;
+}
+#Back{
+  float: left;
+  color: #fff;
+  margin-top: 1vh;
+  margin-left: 1%;
+}
+#Heart{
+  float: left;
+  color: #fff;
+  margin-top: 46vh;
+  margin-left: -10%;
+}
+.Reticence{
+  float: left;
+  margin-top: 42.5vh;
+  color: #fff;
+  margin-left: -3.5%;
+  font-size: 4rem;
+}
+#Pause{
+  float: left;
+  color: #fff;
+  margin-left: -21%;
+  margin-top: 65vh;
+}
+#SkipBack{
+  float: left;
+  color: #fff;
+  margin-left: -29%;
+  margin-top: 65vh;
+}
+#SkipForward{
+  float: left;
+  color: #fff;
+  margin-left: -13%;
+  margin-top: 65vh;
+}
+#Lyrics{
+   float: left;
+  color: #fff;
+  margin-left: -21%;
+  margin-top: 75vh;
+}
+.Footer{
+  float: left;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-top: 80vh;
+  color: #fff;
+  margin-left: -21.5%;
+  font-size: 1.2rem;
+}
+#Speaker{
+  float: left;
+  color: #666;
+  margin-left: -38%;
+  margin-top: 77vh;
+}
+#Share{
+  float: left;
+  color: #666;
+  margin-left: -4%;
+  margin-top: 77vh;
+}
+#Repeat{
+  float: left;
+  color: #fff;
+  margin-left: -3.5%;
+  margin-top: 65.5vh;
+}
+#Shuffle{
+  float: left;
+  color: #fff;
+  margin-left: -38.5%;
+  margin-top: 65.5vh;
+}
+button{
+  float: left;
+  width: 40%;
+  height: 1.5vh;
+  margin-top: 54vh;
+  margin-left: -40%;
+  border-radius: 200px;
+}
+.Inicio{
+  float: left;
+  margin-top: 57vh;
+  color: #fff;
+  margin-left: -40%;
+}
+.Final{
+  float: left;
+  margin-top: 57vh;
+  color: #fff;
+  margin-left: -2%;
+}
